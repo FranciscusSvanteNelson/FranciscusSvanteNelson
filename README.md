@@ -11,7 +11,7 @@ På norsk: <br>
 - 👋 Hei, Jeg heter Franciscus Svante Nelson
 - 👀 Jeg er interessert i internettdesign, alle aspekter ved videospilldesign, og fler og mer
 - 🌱 Jeg studerer for tiden en bachelorgrad i informasjonsteknologi
-- ✨ Jeg har også en tidligere oppnådd grad "Bachelor of Arts in Sociology" med en mindreårig i psykologi 
+- ✨ Jeg har også en tidligere oppnådd en bachelorgrad i sosiologi med en mindreårig i psykologi 
 - ✈  Jeg vil gjerne jobbe i et nordisk land, vennligst kontakt meg med muligheter <br>
 GMAIL: FranciscusSvanteNelson <br>
 DISCORD: LetsGoCisco#0714
