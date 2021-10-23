@@ -6,6 +6,7 @@ GMAIL: FranciscusSvanteNelson <br>
 DISCORD: LetsGoCisco#0714
 
 Jeg snakker også norsk på mellomnivå B1/B2
+og jeg er veldig interessert i jobbmuligheter i de nordiske landene
 
 
 <!---
