@@ -15,6 +15,7 @@ På norsk: <br>
 - ✈  Jeg vil gjerne jobbe i et nordisk land, vennligst kontakt meg med muligheter <br>
 GMAIL: FranciscusSvanteNelson <br>
 DISCORD: LetsGoCisco#0714
+* Jeg har nylig plassert mellom B1 og B2 nivået for norsk språk *
 
 
 
