@@ -1,13 +1,22 @@
-- 👋 Hi, I’m @FranciscusSvanteNelson
+- 👋 Hi, I’m Franciscus Svante Nelson
 - 👀 I’m interested in Web Design, All Aspects of Video Game Production, and so much more
 - 🌱 I’m currently taking a Bachelor's Degree of Science in Information Technology
 - ✨ I also hold a previously earned Bachelor of Arts in Sociology, minor in Psychology
+- ✈ I'm very interested in work opportunities in the Nordic countries
 - 📫 How to reach me: <br>
 GMAIL: FranciscusSvanteNelson <br>
 DISCORD: LetsGoCisco#0714
 
-Jeg snakker også norsk på mellomnivå B1/B2
-og jeg er veldig interessert i jobbmuligheter i de nordiske landene
+På norsk: <br> 
+- 👋 Hei, Jeg er Franciscus Svante Nelson
+- 👀 Jeg er interessert i internettdesign, alle aspekter ved videospilldesign, og fler og mer
+- 🌱 Jeg studerer for tiden en bachelorgrad i informasjonsteknologi
+- ✨ Jeg har også en tidligere oppnådd Bachelor of Arts in Sociology med en mindreårig i psykologi 
+- ✈  Jeg vil gjerne jobbe i et nordisk land, vennligst kontakt meg med muligheter <br>
+GMAIL: FranciscusSvanteNelson <br>
+DISCORD: LetsGoCisco#0714
+
+
 
 
 <!---
