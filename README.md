@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FranciscusSvanteNelson
 - 👀 I’m interested in Web Design, All Aspects of Video Game Production, and so much more
 - 🌱 I’m currently taking a Bachelor's Degree of Science in Information Technology
+- ✨ I also hold a previously earned Bachelor of Arts in Sociology, minor in Psychology
 - 📫 How to reach me: <br>
 GMAIL: FranciscusSvanteNelson <br>
 DISCORD: LetsGoCisco#0714
