@@ -8,7 +8,7 @@ GMAIL: FranciscusSvanteNelson <br>
 DISCORD: LetsGoCisco#0714
 
 På norsk: <br> 
-- 👋 Hei, Jeg er Franciscus Svante Nelson
+- 👋 Hei, Jeg heter Franciscus Svante Nelson
 - 👀 Jeg er interessert i internettdesign, alle aspekter ved videospilldesign, og fler og mer
 - 🌱 Jeg studerer for tiden en bachelorgrad i informasjonsteknologi
 - ✨ Jeg har også en tidligere oppnådd grad "Bachelor of Arts in Sociology" med en mindreårig i psykologi 
