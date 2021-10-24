@@ -8,7 +8,7 @@ GMAIL: FranciscusSvanteNelson <br>
 DISCORD: LetsGoCisco#0714
 
 På norsk bokmål: <br> 
-- 👋 Hei, Jeg heter Franciscus Svante Nelson og vennene mine heter meg "Cisco"
+- 👋 Hei, navnet mitt Franciscus Svante Nelson og vennene mine heter meg "Cisco"
 - 👀 Jeg er interessert i internettdesign, alle aspekter ved videospilldesign, og fler og mer
 - 🌱 Jeg studerer for tiden en bachelorgrad i informasjonsteknologi
 - ✨ Jeg har også en tidligere oppnådd en bachelorgrad i sosiologi med en mindre-studie i psykologi 
