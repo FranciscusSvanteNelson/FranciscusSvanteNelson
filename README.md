@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Franciscus Svante Nelson and my friends call me "Cisco"
-- 👀 I’m interested in Web Design, All Aspects of Video Game Production, and so much more
 - 🌱 I’m currently taking a Bachelor's Degree of Science in Information Technology
 - ✨ I also hold a previously earned Bachelor of Arts in Sociology, minor in Psychology
 - ✈ I'm very interested in work opportunities in the Nordic countries
@@ -9,7 +8,6 @@ DISCORD: LetsGoCisco#0714
 
 På norsk bokmål: <br> 
 - 👋 Hei, navnet mitt er Franciscus Svante Nelson og vennene mine heter meg "Cisco"
-- 👀 Jeg er interessert i internettdesign, alle aspekter ved videospilldesign, og fler og mer
 - 🌱 Jeg studerer for tiden en bachelorgrad i informasjonsteknologi
 - ✨ Jeg har også en tidligere oppnådd en bachelorgrad i sosiologi med en mindre-studie i psykologi 
 - ✈  Jeg vil gjerne jobbe i et nordisk land, vennligst kontakt meg med muligheter <br>
