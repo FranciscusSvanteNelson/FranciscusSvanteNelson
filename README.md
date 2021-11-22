@@ -6,16 +6,6 @@
 GMAIL: FranciscusSvanteNelson <br>
 DISCORD: LetsGoCisco#0714
 
-På norsk bokmål: <br> 
-- 👋 Hei, navnet mitt er Franciscus Svante Nelson og vennene mine heter meg "Cisco"
-- 🌱 Jeg studerer for tiden en bachelorgrad i informasjonsteknologi
-- ✨ Jeg har også en tidligere oppnådd en bachelorgrad i sosiologi med en mindre-studie i psykologi 
-- ✈  Jeg vil gjerne jobbe i et nordisk land, vennligst kontakt meg med muligheter <br>
-GMAIL: FranciscusSvanteNelson <br>
-DISCORD: LetsGoCisco#0714
-* Jeg har nylig plassert mellom B1 og B2 nivået for norsk språk 
-
-
 
 
 <!---
